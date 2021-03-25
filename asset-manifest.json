@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/novesoft/static/css/main.faea64d4.chunk.css",
+    "main.js": "/novesoft/static/js/main.d49b551d.chunk.js",
+    "main.js.map": "/novesoft/static/js/main.d49b551d.chunk.js.map",
+    "runtime-main.js": "/novesoft/static/js/runtime-main.36dcfa3e.js",
+    "runtime-main.js.map": "/novesoft/static/js/runtime-main.36dcfa3e.js.map",
+    "static/css/2.59c70341.chunk.css": "/novesoft/static/css/2.59c70341.chunk.css",
+    "static/js/2.201311c3.chunk.js": "/novesoft/static/js/2.201311c3.chunk.js",
+    "static/js/2.201311c3.chunk.js.map": "/novesoft/static/js/2.201311c3.chunk.js.map",
+    "static/js/3.250befb1.chunk.js": "/novesoft/static/js/3.250befb1.chunk.js",
+    "static/js/3.250befb1.chunk.js.map": "/novesoft/static/js/3.250befb1.chunk.js.map",
+    "index.html": "/novesoft/index.html",
+    "static/css/2.59c70341.chunk.css.map": "/novesoft/static/css/2.59c70341.chunk.css.map",
+    "static/css/main.faea64d4.chunk.css.map": "/novesoft/static/css/main.faea64d4.chunk.css.map",
+    "static/js/2.201311c3.chunk.js.LICENSE.txt": "/novesoft/static/js/2.201311c3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/novesoft/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36dcfa3e.js",
+    "static/css/2.59c70341.chunk.css",
+    "static/js/2.201311c3.chunk.js",
+    "static/css/main.faea64d4.chunk.css",
+    "static/js/main.d49b551d.chunk.js"
+  ]
+}
